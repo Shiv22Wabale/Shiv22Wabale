@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shiv22Wabale
+- 👋 Hi, I’m Shivraj Wabale
 - 👀 I’m interested in learning, creating and implementing the awesome distributed systems algorithms
 
 <!---
